@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Thread\Thread03\bin\Debug\net6.0\Thread03.exe
+C:\Users\user\source\repos\Thread\Thread03\bin\Debug\net6.0\Thread03.deps.json
+C:\Users\user\source\repos\Thread\Thread03\bin\Debug\net6.0\Thread03.runtimeconfig.json
+C:\Users\user\source\repos\Thread\Thread03\bin\Debug\net6.0\Thread03.dll
+C:\Users\user\source\repos\Thread\Thread03\bin\Debug\net6.0\Thread03.pdb
+C:\Users\user\source\repos\Thread\Thread03\obj\Debug\net6.0\Thread03.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Thread\Thread03\obj\Debug\net6.0\Thread03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Thread\Thread03\obj\Debug\net6.0\Thread03.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Thread\Thread03\obj\Debug\net6.0\Thread03.AssemblyInfo.cs
+C:\Users\user\source\repos\Thread\Thread03\obj\Debug\net6.0\Thread03.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Thread\Thread03\obj\Debug\net6.0\Thread03.dll
+C:\Users\user\source\repos\Thread\Thread03\obj\Debug\net6.0\refint\Thread03.dll
+C:\Users\user\source\repos\Thread\Thread03\obj\Debug\net6.0\Thread03.pdb
+C:\Users\user\source\repos\Thread\Thread03\obj\Debug\net6.0\Thread03.genruntimeconfig.cache
+C:\Users\user\source\repos\Thread\Thread03\obj\Debug\net6.0\ref\Thread03.dll

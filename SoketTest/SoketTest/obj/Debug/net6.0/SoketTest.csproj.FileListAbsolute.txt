@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\SoketTest\SoketTest\bin\Debug\net6.0\SoketTest.exe
+C:\Users\user\source\repos\SoketTest\SoketTest\bin\Debug\net6.0\SoketTest.deps.json
+C:\Users\user\source\repos\SoketTest\SoketTest\bin\Debug\net6.0\SoketTest.runtimeconfig.json
+C:\Users\user\source\repos\SoketTest\SoketTest\bin\Debug\net6.0\SoketTest.dll
+C:\Users\user\source\repos\SoketTest\SoketTest\bin\Debug\net6.0\SoketTest.pdb
+C:\Users\user\source\repos\SoketTest\SoketTest\obj\Debug\net6.0\SoketTest.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SoketTest\SoketTest\obj\Debug\net6.0\SoketTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SoketTest\SoketTest\obj\Debug\net6.0\SoketTest.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SoketTest\SoketTest\obj\Debug\net6.0\SoketTest.AssemblyInfo.cs
+C:\Users\user\source\repos\SoketTest\SoketTest\obj\Debug\net6.0\SoketTest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SoketTest\SoketTest\obj\Debug\net6.0\SoketTest.dll
+C:\Users\user\source\repos\SoketTest\SoketTest\obj\Debug\net6.0\refint\SoketTest.dll
+C:\Users\user\source\repos\SoketTest\SoketTest\obj\Debug\net6.0\SoketTest.pdb
+C:\Users\user\source\repos\SoketTest\SoketTest\obj\Debug\net6.0\SoketTest.genruntimeconfig.cache
+C:\Users\user\source\repos\SoketTest\SoketTest\obj\Debug\net6.0\ref\SoketTest.dll

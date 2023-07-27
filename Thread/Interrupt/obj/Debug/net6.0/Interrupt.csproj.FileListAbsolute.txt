@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Thread\Interrupt\bin\Debug\net6.0\Interrupt.exe
+C:\Users\user\source\repos\Thread\Interrupt\bin\Debug\net6.0\Interrupt.deps.json
+C:\Users\user\source\repos\Thread\Interrupt\bin\Debug\net6.0\Interrupt.runtimeconfig.json
+C:\Users\user\source\repos\Thread\Interrupt\bin\Debug\net6.0\Interrupt.dll
+C:\Users\user\source\repos\Thread\Interrupt\bin\Debug\net6.0\Interrupt.pdb
+C:\Users\user\source\repos\Thread\Interrupt\obj\Debug\net6.0\Interrupt.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Thread\Interrupt\obj\Debug\net6.0\Interrupt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Thread\Interrupt\obj\Debug\net6.0\Interrupt.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Thread\Interrupt\obj\Debug\net6.0\Interrupt.AssemblyInfo.cs
+C:\Users\user\source\repos\Thread\Interrupt\obj\Debug\net6.0\Interrupt.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Thread\Interrupt\obj\Debug\net6.0\Interrupt.dll
+C:\Users\user\source\repos\Thread\Interrupt\obj\Debug\net6.0\refint\Interrupt.dll
+C:\Users\user\source\repos\Thread\Interrupt\obj\Debug\net6.0\Interrupt.pdb
+C:\Users\user\source\repos\Thread\Interrupt\obj\Debug\net6.0\Interrupt.genruntimeconfig.cache
+C:\Users\user\source\repos\Thread\Interrupt\obj\Debug\net6.0\ref\Interrupt.dll

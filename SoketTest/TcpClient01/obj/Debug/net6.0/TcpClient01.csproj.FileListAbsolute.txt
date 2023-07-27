@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\SoketTest\TcpClient01\bin\Debug\net6.0\TcpClient01.exe
+C:\Users\user\source\repos\SoketTest\TcpClient01\bin\Debug\net6.0\TcpClient01.deps.json
+C:\Users\user\source\repos\SoketTest\TcpClient01\bin\Debug\net6.0\TcpClient01.runtimeconfig.json
+C:\Users\user\source\repos\SoketTest\TcpClient01\bin\Debug\net6.0\TcpClient01.dll
+C:\Users\user\source\repos\SoketTest\TcpClient01\bin\Debug\net6.0\TcpClient01.pdb
+C:\Users\user\source\repos\SoketTest\TcpClient01\obj\Debug\net6.0\TcpClient01.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SoketTest\TcpClient01\obj\Debug\net6.0\TcpClient01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SoketTest\TcpClient01\obj\Debug\net6.0\TcpClient01.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SoketTest\TcpClient01\obj\Debug\net6.0\TcpClient01.AssemblyInfo.cs
+C:\Users\user\source\repos\SoketTest\TcpClient01\obj\Debug\net6.0\TcpClient01.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SoketTest\TcpClient01\obj\Debug\net6.0\TcpClient01.dll
+C:\Users\user\source\repos\SoketTest\TcpClient01\obj\Debug\net6.0\refint\TcpClient01.dll
+C:\Users\user\source\repos\SoketTest\TcpClient01\obj\Debug\net6.0\TcpClient01.pdb
+C:\Users\user\source\repos\SoketTest\TcpClient01\obj\Debug\net6.0\TcpClient01.genruntimeconfig.cache
+C:\Users\user\source\repos\SoketTest\TcpClient01\obj\Debug\net6.0\ref\TcpClient01.dll

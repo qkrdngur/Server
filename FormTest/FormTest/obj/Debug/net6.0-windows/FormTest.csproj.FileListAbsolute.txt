@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\FormTest\FormTest\bin\Debug\net6.0-windows\FormTest.exe
+C:\Users\user\source\repos\FormTest\FormTest\bin\Debug\net6.0-windows\FormTest.deps.json
+C:\Users\user\source\repos\FormTest\FormTest\bin\Debug\net6.0-windows\FormTest.runtimeconfig.json
+C:\Users\user\source\repos\FormTest\FormTest\bin\Debug\net6.0-windows\FormTest.dll
+C:\Users\user\source\repos\FormTest\FormTest\bin\Debug\net6.0-windows\FormTest.pdb
+C:\Users\user\source\repos\FormTest\FormTest\obj\Debug\net6.0-windows\FormTest.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FormTest\FormTest\obj\Debug\net6.0-windows\FormTest.Form1.resources
+C:\Users\user\source\repos\FormTest\FormTest\obj\Debug\net6.0-windows\FormTest.csproj.GenerateResource.cache
+C:\Users\user\source\repos\FormTest\FormTest\obj\Debug\net6.0-windows\FormTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FormTest\FormTest\obj\Debug\net6.0-windows\FormTest.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FormTest\FormTest\obj\Debug\net6.0-windows\FormTest.AssemblyInfo.cs
+C:\Users\user\source\repos\FormTest\FormTest\obj\Debug\net6.0-windows\FormTest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FormTest\FormTest\obj\Debug\net6.0-windows\FormTest.dll
+C:\Users\user\source\repos\FormTest\FormTest\obj\Debug\net6.0-windows\refint\FormTest.dll
+C:\Users\user\source\repos\FormTest\FormTest\obj\Debug\net6.0-windows\FormTest.pdb
+C:\Users\user\source\repos\FormTest\FormTest\obj\Debug\net6.0-windows\FormTest.genruntimeconfig.cache
+C:\Users\user\source\repos\FormTest\FormTest\obj\Debug\net6.0-windows\ref\FormTest.dll

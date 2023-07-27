@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Thread\Thread Foreground\bin\Debug\net6.0\Thread Foreground.exe
+C:\Users\user\source\repos\Thread\Thread Foreground\bin\Debug\net6.0\Thread Foreground.deps.json
+C:\Users\user\source\repos\Thread\Thread Foreground\bin\Debug\net6.0\Thread Foreground.runtimeconfig.json
+C:\Users\user\source\repos\Thread\Thread Foreground\bin\Debug\net6.0\Thread Foreground.dll
+C:\Users\user\source\repos\Thread\Thread Foreground\bin\Debug\net6.0\Thread Foreground.pdb
+C:\Users\user\source\repos\Thread\Thread Foreground\obj\Debug\net6.0\Thread Foreground.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Thread\Thread Foreground\obj\Debug\net6.0\Thread Foreground.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Thread\Thread Foreground\obj\Debug\net6.0\Thread Foreground.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Thread\Thread Foreground\obj\Debug\net6.0\Thread Foreground.AssemblyInfo.cs
+C:\Users\user\source\repos\Thread\Thread Foreground\obj\Debug\net6.0\Thread Foreground.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Thread\Thread Foreground\obj\Debug\net6.0\Thread Foreground.dll
+C:\Users\user\source\repos\Thread\Thread Foreground\obj\Debug\net6.0\refint\Thread Foreground.dll
+C:\Users\user\source\repos\Thread\Thread Foreground\obj\Debug\net6.0\Thread Foreground.pdb
+C:\Users\user\source\repos\Thread\Thread Foreground\obj\Debug\net6.0\Thread Foreground.genruntimeconfig.cache
+C:\Users\user\source\repos\Thread\Thread Foreground\obj\Debug\net6.0\ref\Thread Foreground.dll
