@@ -36,7 +36,13 @@ public class TicTacToe : MonoBehaviour {
 	};
 	
 	// 칸의 수.
-	private const int 		rowNum = 3;
+	private const int 		rowNum = 19;
+
+	private static float SPACES_WIDTH = 638.0f;
+	private static float SPACES_HEIGHT = 638.0f;
+	
+	private static float WINDOW_WIDTH = 640.0f;
+	private static float WINDOW_HEIGHT = 640.0f;
 
 	// 시합 시작 전의 신호표시 시간.
 	private const float		waitTime = 1.0f;
@@ -100,12 +106,6 @@ public class TicTacToe : MonoBehaviour {
     public AudioClip se_click;
     public AudioClip se_setMark;
     public AudioClip se_win;
-
-	private static float SPACES_WIDTH = 400.0f;
-	private static float SPACES_HEIGHT = 400.0f;
-
-	private static float WINDOW_WIDTH = 640.0f;
-	private static float WINDOW_HEIGHT = 480.0f;
 
 	// Use this for initialization
 	void Start () {
@@ -422,52 +422,61 @@ public class TicTacToe : MonoBehaviour {
 		
 		// 가로 방향을 체크합니다.
 		for (int y = 0; y < rowNum; ++y) {
-			int mark = spaces[y * rowNum];
+			int mark = (int)localMark;
 			int num = 0;
 			for (int x = 0; x < rowNum; ++x) {
 				int index = y * rowNum + x;
 				if (mark == spaces[index]) {
 					++num;
+
+                    if (mark != -1 && num == 5)
+                    {
+                        // 기호가 다 모였으므로 승패결정.
+                        return (mark == 0) ? Winner.Circle : Winner.Cross;
+                    }
+                }
+				else
+				{
+					num = 0;
 				}
-			}
-			
-			if (mark != -1 && num == rowNum) {
-				// 기호가 다 모였으므로 승패결정.
-				return (mark == 0)? Winner.Circle : Winner.Cross;
 			}
 		}
 		
 		// 세로 방향을 체크합니다.
 		for (int x = 0; x < rowNum; ++x) {
-			int mark = spaces[x];
+			int mark = (int)localMark;
 			int num = 0;
 			for (int y = 0; y < rowNum; ++y) {
 				int index = y * rowNum + x;
 				if (mark == spaces[index]) {
 					++num;
-				}
-			}
-					
-			if (mark != -1 && num == rowNum) {
-				// 기호가 다 모였으므로 승패 결정.
-				return (mark == 0)? Winner.Circle : Winner.Cross;
+
+                    if (mark != -1 && num == 5)
+                    {
+                        // 기호가 다 모였으므로 승패 결정.
+                        return (mark == 0) ? Winner.Circle : Winner.Cross;
+                    }
+                }
+				else { num = 0; };
 			}
 		}
 		
 		// 왼쪽 위에서부터 사선 방향을 체크합니다.
 		{
-			int mark = spaces[0];
+			int mark = (int)localMark;
 			int num = 0;
 			for (int xy = 0; xy < rowNum; ++xy) {
 				int index = xy * rowNum + xy;
 				if (mark == spaces[index]) {
 					++num;
-				}
-			}
-						
-			if (mark != -1 && num == rowNum) {
-				// マークがそろったので勝敗決定.
-				return (mark == 0)? Winner.Circle : Winner.Cross;
+
+                    if (mark != -1 && num == 5)
+                    {
+                        // マークがそろったので勝敗決定.
+                        return (mark == 0) ? Winner.Circle : Winner.Cross;
+                    }
+                }
+				else { num = 0; }
 			}	
 		}
 
@@ -479,12 +488,14 @@ public class TicTacToe : MonoBehaviour {
 				int index = xy * rowNum + rowNum - xy - 1;
 				if (mark == spaces[index]) {
 					++num;
-				}
-			}
-						
-			if (mark != -1 && num == rowNum) {
-				// 기호가 다 모였으므로 승패 결정.
-				return (mark == 0)? Winner.Circle : Winner.Cross;
+
+                    if (mark != -1 && num == 5)
+                    {
+                        // 기호가 다 모였으므로 승패 결정.
+                        return (mark == 0) ? Winner.Circle : Winner.Cross;
+                    }
+                }
+				else { num = 0; }
 			}	
 		}
 		
@@ -550,13 +561,13 @@ public class TicTacToe : MonoBehaviour {
 				
 				float ofs = sx / divide * 0.1f;
 				
-				Graphics.DrawTexture(new Rect(px+ofs, py+ofs, sx * 0.8f / divide, sy* 0.8f / divide), texture);
+				Graphics.DrawTexture(new Rect(px+ofs, py+ofs, sx * 0.95f / divide, sy* 0.95f / divide), texture);
 			}
 		}
 
 		// 순서 텍스처 표시.
 		if (localMark == turn) {
-			float offset = (localMark == Mark.Circle)? -94.0f : sx + 36.0f;
+			float offset = (localMark == Mark.Circle)? -164.0f : sx + 106.0f;
 			rect = new Rect(left + offset, top + 5.0f, 68.0f, 136.0f);
 			Graphics.DrawTexture(rect, youTexture);
 		}
